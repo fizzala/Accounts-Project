@@ -46,7 +46,7 @@
           <li><a href="detailed-report.php">Detailed Report</a></li>
           <li><a href="cost-centres.php">Cost Centres Report</a></li>
           <li><a href="add-cost.php">Add Cost</a></li>
-          <li><a href="add-cost-center.php">Add Cost Center</a></li>
+        
         
         <!-- <div class="flex justify-between py-4">
             <label for="report-date" class="font-medium">From Date</label>
@@ -63,7 +63,7 @@
     </div>
 
     <!-- Main Grid for medium and larger screens -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-40">
       
 
       <!-- Left Content -->
@@ -178,7 +178,7 @@
             <li><a href="detailed-report.php">Detailed Report</a></li>
             <li><a href="cost-centres.php">Cost Centres Report</a></li>
             <li><a href="add-cost.php">Add Cost</a></li>
-            <li><a href="add-cost-center.php">Add Cost Center</a></li>
+          
           </ul>
           
         
