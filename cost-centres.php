@@ -22,7 +22,7 @@
         <div class="flex flex-row sm:flex-row justify-between items-center gap-4 mb-6 relative">
             <div class="flex items-center gap-4">
                 <img src="./images/logo.jpeg" alt="Mafkoora Logo" class="w-16 h-16 rounded-full" />
-                <a href="index.php"><h1 class="text-2xl sm:text-3xl font-semibold text-black leading-tight">Impresso<br> Accounts</h1></a>
+                <a href="index.php"><h1 class="text-2xl sm:text-3xl font-semibold text-black leading-tight">Mafkoora<br> Accounts</h1></a>
                 
             </div>
             <a href="#" class="text-red-600 text-md font-medium self-end absolute top-5 right-0">log out</a>

@@ -22,7 +22,7 @@
     <div class="flex justify-between items-start mb-6 relative">
       <div class="flex items-center gap-4">
         <img src="./images/logo.jpeg" alt="Mafkoora Logo" class="w-16 h-16 rounded-full" />
-        <h1 class="text-2xl sm:text-3xl font-semibold text-black leading-tight">Impresso<br> Accounts</h1>
+        <h1 class="text-2xl sm:text-3xl font-semibold text-black leading-tight">Mafkoora<br> Accounts</h1>
       </div>
 
       <!-- Logout and Toggle grouped -->

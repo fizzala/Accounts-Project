@@ -20,7 +20,7 @@
     <div class="flex flex-row sm:flex-row justify-between items-center gap-4 mb-6 relative">
       <div class="flex items-center gap-4">
         <img src="./images/logo.jpeg" alt="Mafkoora Logo" class="w-16 h-16 rounded-full"/>
-        <h1 class="text-2xl sm:text-3xl mafkoora font-semibold text-black leading-tight">Impresso <br> Accounts</h1>
+        <h1 class="text-2xl sm:text-3xl mafkoora font-semibold text-black leading-tight">Mafkoora <br> Accounts</h1>
       </div>
       <div class="absolute right-0 top-5 flex flex-col items-end gap-2 sm:static">
         <a href="#" class="text-red-600 text-md font-medium">Log out</a>
@@ -61,7 +61,7 @@
     </div>
 
     <!-- Main Form Area -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 py-4">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-40 py-4">
       <!-- Form Left -->
       <div class="col-span-2 grid gap-4">
         <div class="grid grid-cols-4 items-center gap-2">
